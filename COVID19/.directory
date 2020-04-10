@@ -1,0 +1,5 @@
+[Dolphin]
+Timestamp=2020,3,29,1,14,18
+Version=4
+ViewMode=1
+VisibleRoles=Details_text,Details_size,Details_modificationtime,Details_creationtime,CustomizedDetails,Compact_text,Compact_size,Compact_modificationtime,Compact_creationtime,Icons_text,Icons_size,Icons_modificationtime,Icons_creationtime

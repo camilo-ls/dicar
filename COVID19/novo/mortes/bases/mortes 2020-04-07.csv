@@ -1,0 +1,294 @@
+ESTADO/PROVÍNCIA;PAÍS/REGIÃO;PAÍS/ESTADO;1 º DIA;2 º DIA;3 º DIA;4 º DIA;5 º DIA;6 º DIA;7 º DIA;8 º DIA;9 º DIA;10 º DIA;11 º DIA;12 º DIA;13 º DIA;14 º DIA;15 º DIA;16 º DIA;17 º DIA;18 º DIA;19 º DIA;20 º DIA;21 º DIA;22 º DIA;23 º DIA;24 º DIA;25 º DIA;26 º DIA;27 º DIA;28 º DIA;29 º DIA;30 º DIA;31 º DIA;32 º DIA;33 º DIA;34 º DIA;35 º DIA;36 º DIA;37 º DIA;38 º DIA;39 º DIA;40 º DIA;41 º DIA;42 º DIA;43 º DIA;44 º DIA;45 º DIA;46 º DIA;47 º DIA;48 º DIA;49 º DIA;50 º DIA;51 º DIA;52 º DIA;53 º DIA;54 º DIA;55 º DIA;56 º DIA;57 º DIA;58 º DIA;59 º DIA;60 º DIA;61 º DIA;62 º DIA;63 º DIA;64 º DIA;65 º DIA;66 º DIA;67 º DIA;68 º DIA;69 º DIA;70 º DIA;71 º DIA;72 º DIA;73 º DIA;74 º DIA;75 º DIA;76 º DIA
+;Afghanistan;Afghanistan;1;1;1;2;4;4;4;4;4;4;4;6;6;7;7;11;
+;Albania;Albania;1;1;1;1;1;1;1;2;2;2;2;2;4;5;5;6;8;10;10;11;15;15;16;17;20;20;21;
+;Algeria;Algeria;1;2;3;4;4;4;7;9;11;15;17;17;19;21;25;26;29;31;35;44;58;86;105;130;152;173;
+;Andorra;Andorra;1;1;1;1;3;3;3;6;8;12;14;15;16;17;18;21;
+;Angola;Angola;2;2;2;2;2;2;2;2;2;
+;Antigua and Barbuda;Antigua and Barbuda;
+;Argentina;Argentina;1;1;1;1;1;2;2;2;2;2;2;3;3;4;4;4;6;8;9;13;18;19;23;27;28;36;39;43;44;48;
+;Armenia;Armenia;1;1;1;3;3;3;4;7;7;7;7;8;
+Australian Capital Territory;Australia;Australia - Australian Capital Territory;1;1;1;1;1;2;2;2;
+New South Wales;Australia;Australia - New South Wales;1;1;1;1;2;2;2;2;2;2;2;2;2;4;5;5;6;6;6;6;7;7;7;7;8;8;8;8;9;10;12;12;16;18;
+Northern Territory;Australia;Australia - Northern Territory;
+Queensland;Australia;Australia - Queensland;1;1;1;2;2;2;2;4;4;4;4;4;
+South Australia;Australia;Australia - South Australia;
+Tasmania;Australia;Australia - Tasmania;1;2;2;2;2;2;2;
+Victoria;Australia;Australia - Victoria;3;3;3;4;4;4;4;5;7;8;8;10;
+Western Australia;Australia;Australia - Western Australia;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;2;2;2;2;2;2;2;2;2;2;3;4;
+;Austria;Austria;1;1;1;1;3;3;4;6;6;8;16;21;28;30;49;58;68;86;108;128;146;158;168;186;204;220;
+;Azerbaijan;Azerbaijan;1;1;1;1;1;1;1;1;1;1;1;1;2;3;3;4;4;4;5;5;5;5;5;7;7;
+;Bahamas;Bahamas;1;1;1;4;4;5;
+;Bahrain;Bahrain;1;1;1;1;1;1;2;2;3;4;4;4;4;4;4;4;4;4;4;4;4;4;
+;Bangladesh;Bangladesh;1;1;1;2;2;3;4;5;5;5;5;5;5;5;6;6;6;8;9;12;
+;Barbados;Barbados;1;2;
+;Belarus;Belarus;1;2;4;4;5;8;13;
+;Belgium;Belgium;3;3;3;4;4;5;10;14;21;37;67;75;88;122;178;220;289;353;431;513;705;828;1011;1143;1283;1447;1632;
+;Benin;Benin;1;
+;Bhutan;Bhutan;
+;Bolivia;Bolivia;1;4;6;7;8;9;10;10;11;
+;Bosnia and Herzegovina;Bosnia and Herzegovina;1;1;1;3;3;3;4;5;6;10;13;13;16;17;21;23;29;
+;Brazil;Brazil;1;3;6;11;15;25;34;46;59;77;92;111;136;159;201;240;324;359;445;486;564;
+;Brunei;Brunei;1;1;1;1;1;1;1;1;1;1;
+;Bulgaria;Bulgaria;1;1;1;2;2;2;2;2;3;3;3;3;3;3;3;3;3;7;8;8;8;10;10;14;17;20;22;
+;Burkina Faso;Burkina Faso;1;1;1;2;4;4;4;4;7;9;11;12;12;14;16;16;16;16;17;18;
+;Cabo Verde;Cabo Verde;1;1;1;1;1;1;1;1;1;1;1;1;1;1;
+;Cambodia;Cambodia;
+;Cameroon;Cameroon;1;1;2;2;6;6;6;6;7;8;9;9;9;
+Alberta;Canada;Canada - Alberta;1;1;1;1;1;2;2;2;2;2;3;8;9;13;13;18;20;23;
+British Columbia;Canada;Canada - British Columbia;1;1;1;1;1;1;1;4;4;7;7;8;10;10;13;13;13;14;14;17;17;19;24;24;31;31;38;38;38;
+Grand Princess;Canada;Canada - Grand Princess;
+Manitoba;Canada;Canada - Manitoba;1;1;1;1;1;1;1;2;2;2;2;
+New Brunswick;Canada;Canada - New Brunswick;
+Newfoundland and Labrador;Canada;Canada - Newfoundland and Labrador;1;1;1;1;1;1;1;1;
+Nova Scotia;Canada;Canada - Nova Scotia;
+Ontario;Canada;Canada - Ontario;1;1;1;2;3;5;6;7;8;13;18;18;21;31;33;37;53;67;94;119;150;
+Prince Edward Island;Canada;Canada - Prince Edward Island;
+Quebec;Canada;Canada - Quebec;1;1;5;4;4;4;6;8;18;22;22;22;31;33;36;61;61;75;121;
+Saskatchewan;Canada;Canada - Saskatchewan;2;2;3;3;3;3;3;3;
+;Central African Republic;Central African Republic;
+;Chad;Chad;
+;Chile;Chile;1;2;2;3;4;5;6;7;8;12;16;18;22;27;34;37;
+Anhui;China;China - Anhui;1;3;4;4;5;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;
+Beijing;China;China - Beijing;1;1;1;1;1;1;1;1;1;1;1;1;2;2;2;3;3;3;3;4;4;4;4;4;4;4;4;4;4;4;4;5;7;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;
+Chongqing;China;China - Chongqing;1;2;2;2;2;2;2;2;2;2;3;3;4;5;5;5;5;5;5;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;
+Fujian;China;China - Fujian;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;
+Gansu;China;China - Gansu;1;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;
+Guangdong;China;China - Guangdong;1;1;1;1;1;1;2;2;2;2;4;4;5;5;5;5;6;6;7;7;7;7;7;7;7;7;7;7;7;7;7;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;
+Guangxi;China;China - Guangxi;1;1;1;1;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;
+Guizhou;China;China - Guizhou;1;1;1;1;1;1;1;1;1;1;1;1;1;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;
+Hainan;China;China - Hainan;1;1;1;1;1;1;1;1;1;1;1;2;2;3;3;3;4;4;4;4;4;4;4;4;4;4;4;5;5;5;5;5;5;5;5;5;5;5;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;
+Hebei;China;China - Hebei;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;2;2;2;2;3;3;3;3;3;4;4;5;5;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;
+Heilongjiang;China;China - Heilongjiang;1;1;1;1;1;1;2;2;2;2;2;2;2;3;3;5;6;7;8;8;9;11;11;11;11;11;12;12;12;12;12;12;12;12;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;13;
+Henan;China;China - Henan;1;1;1;2;2;2;2;2;2;2;2;2;3;4;6;6;7;8;10;11;13;13;16;19;19;19;19;19;19;19;19;19;20;20;21;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;22;
+Hong Kong;China;China - Hong Kong;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;3;3;3;3;3;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;
+Hubei;China;China - Hubei;17;17;24;40;52;76;125;125;162;204;249;350;414;479;549;618;699;780;871;974;1068;1068;1310;1457;1596;1696;1789;1921;2029;2144;2144;2346;2346;2495;2563;2615;2641;2682;2727;2761;2803;2835;2871;2902;2931;2959;2986;3008;3024;3046;3056;3062;3075;3085;3099;3111;3122;3130;3133;3139;3153;3153;3160;3163;3169;3174;3177;3182;3186;3187;3193;3199;3203;3207;3210;3212;
+Hunan;China;China - Hunan;1;1;1;1;2;2;2;2;3;3;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;
+Inner Mongolia;China;China - Inner Mongolia;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;
+Jiangsu;China;China - Jiangsu;
+Jiangxi;China;China - Jiangxi;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;
+Jilin;China;China - Jilin;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;
+Liaoning;China;China - Liaoning;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;
+Macau;China;China - Macau;
+Ningxia;China;China - Ningxia;
+Qinghai;China;China - Qinghai;
+Shaanxi;China;China - Shaanxi;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;2;2;2;2;2;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;
+Shandong;China;China - Shandong;1;1;1;2;2;2;2;2;2;3;3;4;4;4;4;5;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;
+Shanghai;China;China - Shanghai;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;2;2;2;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;4;4;4;5;5;5;5;5;5;5;6;6;6;6;6;6;
+Shanxi;China;China - Shanxi;
+Sichuan;China;China - Sichuan;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;
+Tianjin;China;China - Tianjin;1;1;1;1;1;1;2;2;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;
+Tibet;China;China - Tibet;
+Xinjiang;China;China - Xinjiang;1;1;1;1;1;1;1;1;1;2;2;2;2;2;2;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;
+Yunnan;China;China - Yunnan;1;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;
+Zhejiang;China;China - Zhejiang;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;
+;Colombia;Colombia;2;3;3;4;6;6;6;10;12;16;17;19;25;32;35;46;
+;Congo (Brazzaville);Congo (Brazzaville);2;2;2;5;5;
+;Congo (Kinshasa);Congo (Kinshasa);1;1;1;2;2;3;3;6;6;8;8;9;13;13;18;18;18;
+;Costa Rica;Costa Rica;1;1;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;
+;Cote d'Ivoire;Cote d'Ivoire;1;1;1;1;1;1;1;3;3;
+;Croatia;Croatia;1;1;1;1;1;1;1;3;3;5;6;6;6;6;7;8;12;15;16;
+;Diamond Princess;Diamond Princess;2;2;2;3;3;3;4;4;6;6;6;6;6;6;6;6;6;6;6;6;7;7;7;7;7;7;7;7;7;7;8;8;8;10;10;10;10;10;10;10;10;11;11;11;11;11;11;
+;Cuba;Cuba;1;1;1;1;1;1;1;1;2;2;3;3;4;6;6;6;6;6;8;9;
+;Cyprus;Cyprus;1;1;3;3;3;5;5;5;7;8;9;10;11;11;9;9;
+;Czechia;Czechia;1;1;3;6;9;9;11;16;23;31;39;44;53;59;67;78;
+Faroe Islands;Denmark;Denmark - Faroe Islands;
+Greenland;Denmark;Denmark - Greenland;
+;Denmark;Denmark;1;2;3;4;4;6;9;13;13;24;32;34;41;52;65;72;77;90;104;123;139;161;179;187;
+;Djibouti;Djibouti;
+;Dominican Republic;Dominican Republic;1;1;2;2;2;3;3;6;10;10;20;28;39;42;51;57;60;68;68;82;86;
+;Ecuador;Ecuador;2;2;2;2;2;3;5;7;14;18;27;28;34;36;48;58;60;75;93;120;145;172;180;191;
+;Egypt;Egypt;1;1;1;1;1;2;2;2;2;4;6;6;8;10;14;19;20;21;24;30;36;40;41;46;52;58;66;71;78;85;
+;El Salvador;El Salvador;1;1;2;2;3;3;4;
+;Equatorial Guinea;Equatorial Guinea;
+;Eritrea;Eritrea;
+;Estonia;Estonia;1;1;1;1;3;3;4;5;11;12;13;15;19;
+;Eswatini;Eswatini;
+;Ethiopia;Ethiopia;2;2;
+;Fiji;Fiji;
+;Finland;Finland;1;1;1;1;3;5;7;9;11;13;17;17;19;20;25;28;27;
+French Guiana;France;France - French Guiana;
+French Polynesia;France;France - French Polynesia;
+Guadeloupe;France;France - Guadeloupe;1;1;1;1;1;1;2;4;4;4;6;6;7;7;7;7;
+Mayotte;France;France - Mayotte;1;1;1;2;2;2;2;
+New Caledonia;France;France - New Caledonia;
+Reunion;France;France - Reunion;
+Saint Barthelemy;France;France - Saint Barthelemy;
+St Martin;France;France - St Martin;1;1;1;1;1;2;2;2;
+Martinique;France;France - Martinique;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;3;3;3;3;3;4;4;
+;France;France;1;1;1;1;1;1;1;1;1;1;1;2;2;2;2;2;3;4;4;6;9;11;19;19;33;48;48;79;91;91;148;148;148;243;450;562;674;860;1100;1331;1696;1995;2314;2606;3024;3523;4032;5387;6507;7560;8078;8911;
+;Gabon;Gabon;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;
+;Gambia;Gambia;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;
+;Georgia;Georgia;1;2;2;
+;Germany;Germany;2;2;3;3;7;9;11;17;24;28;44;67;84;94;123;157;206;267;342;433;533;645;775;920;1107;1275;1444;1584;1810;
+;Ghana;Ghana;1;1;2;2;4;4;4;5;5;5;5;5;5;5;5;5;5;
+;Greece;Greece;1;1;1;3;4;4;5;5;6;6;13;15;17;20;22;26;28;32;38;43;49;50;53;63;68;73;79;
+;Guatemala;Guatemala;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;2;2;3;
+;Guinea;Guinea;
+;Guyana;Guyana;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;2;2;4;4;4;4;4;
+;Haiti;Haiti;1;1;
+;Holy See;Holy See;
+;Honduras;Honduras;1;1;1;3;7;7;10;14;15;15;22;22;
+;Hungary;Hungary;1;1;1;1;1;3;4;6;7;9;10;10;10;11;13;15;16;20;21;26;32;34;38;
+;Iceland;Iceland;5;1;1;1;1;1;1;2;2;2;2;2;2;2;2;2;4;4;4;4;6;
+;India;India;1;1;2;2;2;2;3;3;4;5;4;7;10;10;12;20;20;24;27;32;35;58;72;72;86;99;136;
+;Indonesia;Indonesia;1;1;4;5;5;5;5;19;25;32;38;48;49;55;58;78;87;102;114;122;136;157;170;181;191;198;209;
+;Iran;Iran;2;2;4;5;8;12;16;19;26;34;43;54;66;77;92;107;124;145;194;237;291;354;429;514;611;724;853;988;1135;1284;1433;1556;1685;1812;1934;2077;2234;2378;2517;2640;2757;2898;3036;3160;3294;3452;3603;3739;
+;Iraq;Iraq;2;2;3;4;6;6;7;7;8;9;10;10;10;11;12;13;17;17;20;23;27;29;36;40;42;42;46;50;52;54;54;56;61;64;
+;Ireland;Ireland;1;1;1;2;2;2;2;2;3;3;3;4;6;7;9;19;22;36;46;54;71;85;98;120;137;158;174;
+;Israel;Israel;1;1;1;3;5;8;12;12;15;16;20;26;36;40;44;49;57;
+;Italy;Italy;1;2;3;7;10;12;17;21;29;34;52;79;107;148;197;233;366;463;631;827;827;1266;1441;1809;2158;2503;2978;3405;4032;4825;5476;6077;6820;7503;8215;9134;10023;10779;11591;12428;13155;13915;14681;15362;15887;16523;
+;Jamaica;Jamaica;1;1;1;1;1;1;1;1;1;1;1;1;1;3;3;3;3;3;3;
+;Japan;Japan;1;1;1;1;1;1;1;1;1;1;1;1;1;2;4;4;5;6;6;6;6;6;6;6;6;10;10;15;16;19;22;22;27;29;29;29;33;35;41;42;43;45;47;49;52;54;54;56;57;62;63;77;77;85;
+;Jordan;Jordan;1;1;3;5;5;5;5;5;5;5;6;
+;Kazakhstan;Kazakhstan;3;1;1;1;1;1;2;3;3;6;5;6;6;
+;Kenya;Kenya;1;1;1;1;1;1;1;3;4;4;4;6;
+;Korea, South;Korea, South;1;2;2;6;8;10;12;13;13;16;17;28;28;35;35;42;44;50;53;54;60;66;66;72;75;75;81;84;91;94;102;111;111;120;126;131;139;144;152;158;162;165;169;174;177;183;186;
+;Kuwait;Kuwait;1;1;1;
+;Kyrgyzstan;Kyrgyzstan;1;1;1;4;
+;Latvia;Latvia;1;1;1;1;
+;Lebanon;Lebanon;1;3;3;3;3;3;3;3;3;4;4;4;4;4;4;6;6;8;8;10;11;12;14;16;17;17;18;19;
+;Liberia;Liberia;1;3;3;
+;Liechtenstein;Liechtenstein;1;1;1;
+;Lithuania;Lithuania;1;1;1;2;4;4;5;7;7;7;8;8;9;9;11;13;15;
+;Luxembourg;Luxembourg;1;1;1;1;2;4;4;8;8;8;8;8;9;15;18;21;22;23;29;30;31;31;36;41;
+;Madagascar;Madagascar;
+;Malaysia;Malaysia;2;2;2;3;4;10;14;16;20;23;26;27;35;37;43;45;50;53;57;61;62;
+;Maldives;Maldives;
+;Malta;Malta;
+;Mauritania;Mauritania;1;1;1;1;1;1;1;1;
+;Mauritius;Mauritius;1;2;2;2;2;2;2;2;3;3;5;6;7;7;7;7;7;
+;Mexico;Mexico;1;1;2;2;3;4;5;6;8;12;16;20;28;29;37;50;60;79;94;
+;Moldova;Moldova;1;1;1;1;1;1;1;1;1;2;2;2;2;4;5;6;8;12;15;19;
+;Monaco;Monaco;1;1;1;1;1;1;1;1;1;
+;Mongolia;Mongolia;
+;Montenegro;Montenegro;1;1;1;1;1;1;1;1;2;2;2;2;2;2;2;
+;Morocco;Morocco;1;1;1;1;1;1;1;2;2;2;3;3;4;4;5;6;11;23;25;26;33;36;39;44;48;59;70;80;
+;Namibia;Namibia;
+;Nepal;Nepal;
+Aruba;Netherlands;Netherlands - Aruba;
+Curacao;Netherlands;Netherlands - Curacao;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;
+Sint Maarten;Netherlands;Netherlands - Sint Maarten;1;1;2;4;4;6;
+;Netherlands;Netherlands;1;1;3;3;4;5;5;10;12;20;24;43;58;76;106;136;179;213;276;356;434;546;639;771;864;1039;1173;1339;1487;1651;1766;1867;
+;New Zealand;New Zealand;1;1;1;1;1;1;1;1;1;
+;Nicaragua;Nicaragua;1;1;1;1;1;1;1;1;1;1;1;
+;Niger;Niger;1;1;1;1;1;3;3;5;5;5;8;10;10;
+;Nigeria;Nigeria;1;1;1;1;1;1;1;2;2;2;2;4;4;5;5;
+;North Macedonia;North Macedonia;1;2;2;3;3;3;4;6;7;9;11;11;12;17;18;23;
+;Norway;Norway;3;3;3;3;6;7;7;7;7;10;12;14;14;19;23;25;32;39;44;50;59;62;71;76;
+;Oman;Oman;1;1;1;1;2;2;2;
+;Pakistan;Pakistan;2;3;3;5;6;7;8;9;11;12;14;21;26;27;34;40;41;47;53;
+;Panama;Panama;1;1;1;1;1;1;1;1;1;1;1;3;6;6;8;8;9;14;17;24;30;30;32;37;41;46;54;
+;Papua New Guinea;Papua New Guinea;
+;Paraguay;Paraguay;1;1;1;2;3;3;3;3;3;3;3;3;3;3;3;3;5;
+;Peru;Peru;3;5;5;5;7;9;9;11;16;18;24;30;38;55;61;73;83;92;
+;Philippines;Philippines;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;2;5;8;11;12;12;19;17;18;19;25;33;35;38;45;54;68;71;78;88;96;107;136;144;152;163;
+;Poland;Poland;1;2;3;3;4;5;5;5;5;5;7;8;10;14;16;16;18;22;31;33;43;57;71;79;94;107;
+;Portugal;Portugal;1;2;3;6;12;14;23;33;43;60;76;100;119;140;160;187;209;246;266;295;311;
+;Qatar;Qatar;1;1;1;2;2;3;3;3;4;4;
+;Romania;Romania;3;7;11;17;23;26;37;43;65;82;92;115;133;146;151;176;
+;Russia;Russia;1;1;1;1;1;1;3;3;4;4;8;9;17;24;30;34;43;45;47;
+;Rwanda;Rwanda;
+;Saint Lucia;Saint Lucia;
+;Saint Vincent and the Grenadines;Saint Vincent and the Grenadines;
+;San Marino;San Marino;1;1;1;1;1;1;1;2;2;3;5;5;5;7;7;11;11;14;20;20;20;21;21;21;21;22;22;25;26;26;30;30;32;32;32;
+;Saudi Arabia;Saudi Arabia;1;2;3;3;4;8;8;10;16;21;25;29;34;38;
+;Senegal;Senegal;1;1;1;2;2;2;
+;Serbia;Serbia;1;1;2;3;3;4;1;1;10;13;16;16;28;31;39;44;51;58;
+;Seychelles;Seychelles;
+;Singapore;Singapore;2;2;2;2;2;2;2;2;3;3;3;3;4;5;6;6;6;
+;Slovakia;Slovakia;1;1;1;1;1;1;1;1;1;2;
+;Slovenia;Slovenia;1;1;1;1;1;1;1;1;2;3;4;5;6;9;9;11;11;15;15;17;20;22;28;30;
+;Somalia;Somalia;
+;South Africa;South Africa;1;1;2;3;5;5;5;9;9;11;12;
+;Spain;Spain;1;2;3;5;10;17;28;35;54;55;133;195;289;342;533;623;830;1043;1375;1772;2311;2808;3647;4365;5138;5982;6803;7716;8464;9387;10348;11198;11947;12641;13341;
+;Sri Lanka;Sri Lanka;1;1;2;2;3;4;4;5;5;5;
+;Sudan;Sudan;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;2;2;2;2;2;2;2;2;
+;Suriname;Suriname;1;1;1;1;
+;Sweden;Sweden;1;1;1;2;3;6;7;10;11;16;20;21;25;36;62;77;105;105;110;146;180;239;308;358;373;401;477;
+;Switzerland;Switzerland;1;1;1;2;2;3;4;4;11;13;14;14;27;28;41;54;75;98;120;122;153;191;231;264;300;359;433;488;536;591;666;715;765;
+;Taiwan*;Taiwan*;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;2;2;2;2;2;2;2;2;2;2;5;5;5;5;5;5;5;5;
+;Tanzania;Tanzania;1;1;1;1;1;1;1;
+;Thailand;Thailand;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;4;4;4;5;6;7;9;10;12;15;19;20;23;26;
+;Togo;Togo;1;1;1;1;1;2;2;3;3;3;3;
+;Trinidad and Tobago;Trinidad and Tobago;1;1;2;3;3;3;3;5;5;6;6;7;8;
+;Tunisia;Tunisia;1;1;1;3;3;4;5;6;6;8;8;8;10;12;14;18;18;22;22;
+;Turkey;Turkey;1;1;3;4;9;30;37;44;59;75;92;108;131;168;214;277;356;425;501;574;649;
+;Uganda;Uganda;
+;Ukraine;Ukraine;1;1;1;1;2;2;2;3;3;3;3;3;5;5;5;9;10;13;17;20;22;27;32;37;38;
+;United Arab Emirates;United Arab Emirates;2;2;2;2;2;2;2;2;2;3;5;6;8;8;9;10;10;11;
+Bermuda;United Kingdom;United Kingdom - Bermuda;2;
+Cayman Islands;United Kingdom;United Kingdom - Cayman Islands;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;
+Channel Islands;United Kingdom;United Kingdom - Channel Islands;1;1;1;2;2;3;3;3;4;5;6;7;
+Gibraltar;United Kingdom;United Kingdom - Gibraltar;
+Isle of Man;United Kingdom;United Kingdom - Isle of Man;1;1;1;1;1;1;
+Montserrat;United Kingdom;United Kingdom - Montserrat;
+;United Kingdom;United Kingdom;1;2;2;3;4;6;8;8;8;21;21;55;55;71;137;177;233;281;335;422;465;578;759;1019;1228;1408;1789;2352;2921;3605;4313;4934;5373;
+;Uruguay;Uruguay;1;1;1;2;4;4;5;5;6;
+;US;US;1;1;6;7;11;12;14;17;21;22;28;36;40;47;54;63;85;108;118;200;244;307;417;557;706;942;1209;1581;2026;2467;2978;3873;4757;5926;7087;8407;9619;10783;
+;Uzbekistan;Uzbekistan;1;2;2;2;2;2;2;2;2;2;2;
+;Venezuela;Venezuela;1;2;2;3;3;3;5;7;7;7;7;
+;Vietnam;Vietnam;
+;Zambia;Zambia;1;1;1;1;1;
+;Zimbabwe;Zimbabwe;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;
+Diamond Princess;Canada;Canada - Diamond Princess;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;
+;Dominica;Dominica;
+;Grenada;Grenada;
+;Mozambique;Mozambique;
+;Syria;Syria;1;2;2;2;2;2;2;2;2;
+;Timor-Leste;Timor-Leste;
+;Belize;Belize;1;
+Recovered;Canada;Canada - Recovered;
+;Laos;Laos;
+;Libya;Libya;1;1;1;1;1;
+;West Bank and Gaza;West Bank and Gaza;1;1;1;1;1;1;1;1;1;1;1;1;
+;Guinea-Bissau;Guinea-Bissau;
+;Mali;Mali;1;2;2;3;3;3;3;5;5;
+;Saint Kitts and Nevis;Saint Kitts and Nevis;
+Northwest Territories;Canada;Canada - Northwest Territories;
+Yukon;Canada;Canada - Yukon;
+;Kosovo;Kosovo;1;1;1;1;1;1;1;1;1;1;1;1;
+;Burma;Burma;1;1;1;1;1;1;1;
+Anguilla;United Kingdom;United Kingdom - Anguilla;
+British Virgin Islands;United Kingdom;United Kingdom - British Virgin Islands;
+Turks and Caicos Islands;United Kingdom;United Kingdom - Turks and Caicos Islands;1;1;
+;MS Zaandam;MS Zaandam;2;2;2;2;2;2;
+;Botswana;Botswana;1;1;1;1;1;1;1;
+;Burundi;Burundi;
+;Sierra Leone;Sierra Leone;
+Bonaire, Sint Eustatius and Saba;Netherlands;Netherlands - Bonaire, Sint Eustatius and Saba;
+;Malawi;Malawi;
+Falkland Islands (Islas Malvinas);United Kingdom;United Kingdom - Falkland Islands (Islas Malvinas);
+Saint Pierre and Miquelon;France;France - Saint Pierre and Miquelon;
+;South Sudan;South Sudan;
+;Western Sahara;Western Sahara;
+;Sao Tome and Principe;Sao Tome and Principe;
+Rondônia;Brazil;Brazil - Rondônia;1;1;1;1;1;1;1
+Acre;Brazil
+;Brazil
+ - AcreAmazonas;Brazil;Brazil - Amazonas;1;1;1;1;1;1;3;3;3;7;12;14;19
+Roraima;Brazil;Brazil - Roraima;1;1;1
+Pará;Brazil;Brazil - Pará;1;1;1;1;1;3
+Amapá;Brazil;Brazil - Amapá;1;2;2
+Tocantins;Brazil
+;Brazil
+ - TocantinsMaranhão;Brazil;Brazil - Maranhão;1;1;1;1;1;1;2;2
+Piauí;Brazil;Brazil - Piauí;1;1;3;4;4;4;4;4;4;4
+Ceará;Brazil;Brazil - Ceará;3;3;4;5;5;7;8;20;22;22;26;29
+Rio Grande do Norte;Brazil;Brazil - Rio Grande do Norte;1;1;1;2;2;4;5;7;7
+Paraíba;Brazil;Brazil - Paraíba;1;1;1;2;4;4
+Pernambuco;Brazil;Brazil - Pernambuco;1;3;4;5;5;6;6;8;9;10;14;21;30
+Alagoas;Brazil;Brazil - Alagoas;1;1;1;2;2;2;2
+Sergipe;Brazil;Brazil - Sergipe;2;2;2;3;4
+Bahia;Brazil;Brazil - Bahia;1;1;2;2;3;5;7;9;10
+Minas Gerais;Brazil;Brazil - Minas Gerais;1;2;3;4;6;6;6;9
+Espírito Santo;Brazil;Brazil - Espírito Santo;1;4;5;6;6
+Rio de Janeiro;Brazil;Brazil - Rio de Janeiro;2;2;3;3;4;6;6;9;10;13;17;18;23;28;41;47;58;64;71
+São Paulo;Brazil;Brazil - São Paulo;1;4;4;9;15;22;30;40;48;58;68;84;98;113;136;164;188;219;260;275;304
+Paraná;Brazil;Brazil - Paraná;2;2;2;3;3;3;4;4;6;9;11
+Santa Catarina;Brazil;Brazil - Santa Catarina;1;1;1;1;1;2;2;2;5;5;10;10
+Rio Grande do Sul;Brazil;Brazil - Rio Grande do Sul;1;1;2;2;2;3;4;4;5;5;6;7;7
+Mato Grosso do Sul;Brazil;Brazil - Mato Grosso do Sul;1;1;1;1;1;1;1
+Mato Grosso;Brazil;Brazil - Mato Grosso;1;1;1;1
+Goiás;Brazil;Brazil - Goiás;1;1;1;1;1;1;1;1;2;2;3;5
+Distrito Federal;Brazil;Brazil - Distrito Federal;1;1;3;3;4;5;7;7;10
+Manaus;Brazil;Brazil - Manaus;02;02;02;04;09;10;15

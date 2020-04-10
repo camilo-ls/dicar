@@ -1,0 +1,7 @@
+git config --global user.email "user@mail.com"
+git config --global user.name "Seu Nome"
+
+git init: cria um novo repositório
+git commit -m "primeiro commit"
+git status: verifica o estado do repositório (caso mudanças tenham sido feitas, será identificado aqui)
+git log: log de commits
